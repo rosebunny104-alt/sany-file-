@@ -1,0 +1,8 @@
+{
+  "appId": "com.sany.goal100k",
+  "appName": "$100K Goal",
+  "webDir": "www",
+  "android": {
+    "backgroundColor": "#080a0d"
+  }
+}
